@@ -1056,8 +1056,8 @@ footer .footer-box-border:before {
 }
 @media (min-width: 1200px) {
   .main-slider .slider-title {
-    font-size: 62px;
-    line-height: 82px;
+    font-size: 40px;
+    line-height: 50px;
   }
   .main-slider .slider-text-box {
     transform: translateY(-60%);
