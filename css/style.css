@@ -890,6 +890,7 @@ footer .footer-box-border:before {
 
   .copyright-box {
     text-align: left;
+    margin-top: 20px;
   }
 
   .footer-contact-form textarea {
@@ -1218,6 +1219,9 @@ a.back_to_top {
   }
 }
 @media (min-width: 768px) {
+  .product-features-main-title{
+    margin-top: 20px;
+  }
   .features {
     padding-top: 40px;
     background: url("../img/features-bg.png") no-repeat;
@@ -1566,7 +1570,7 @@ a.back_to_top {
 
 @media (max-width: 575px) {
   .product-features {
-    padding-top: 18px !important;
+    padding-top: 40px !important;
     padding-bottom: 24px !important;
   }
 }
